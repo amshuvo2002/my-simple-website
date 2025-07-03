@@ -5,6 +5,9 @@
     border: 5px solid cadetblue;
     box-shadow: 10px 10px;
     text-align: center;
+    background-image: url('sdc-363-komol---.jpg');
+    background-size: cover;
+    /* background-image: url('../img/sdc-363-komol---.jpg'); */
 }
 div{
     background-color: dimgray;
